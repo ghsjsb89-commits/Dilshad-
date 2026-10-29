@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Muslim Jarvis VIP</string>
+    <string name="accessibility_service_description">Muslim Jarvis VIP Accessibility Service enables voice-directed typing, scrolling, and interface actions on your device when authorized.</string>
+</resources>

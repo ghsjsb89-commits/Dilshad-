@@ -1,0 +1,6 @@
+{
+  "name": "Muslim Jarvis VIP",
+  "description": "VIP Edition Android AI Assistant with Voice, Urdu & English reasoning, Phone Automations, Islamic Quran & Duas, and Luxury HUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
